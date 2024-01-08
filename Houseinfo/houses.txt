@@ -1,0 +1,7 @@
+1 101 4 Alpha_House
+1 102 3 Beta_House
+2 203 5 Gamma_House
+3 301 6 Delta_House
+3 302 2 Epsilon_House
+4 402 4 Nivas
+5 522 5 House
